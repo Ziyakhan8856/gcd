@@ -8,6 +8,6 @@ int main(){
     cout<<i<<" ";
     n/=i;
 }
-
+ cout<<"show image";
 }
 }
