@@ -10,5 +10,6 @@ int main(){
       x=temp;
     }
     cout<<y<<" ";
+    cout<<"hello"; 
     return 0;
  }
